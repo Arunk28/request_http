@@ -8,17 +8,25 @@
     <PackageLicenseExpression></PackageLicenseExpression>
     <Description>http request library 
 by use this library small amount of code to request any rest api</Description>
-    <Copyright></Copyright>
+    <Copyright>@arun</Copyright>
     <PackageReleaseNotes>http library support 
 GET
 PUT
 POST
 DELETE</PackageReleaseNotes>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/Arunk28/request_http.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Arunk28/request_http.git</PackageProjectUrl>
+    <PackageIcon>request.png</PackageIcon>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="request.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
