@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Company>syscloud</Company>
+    <PackageId>request_http</PackageId>
+    <Authors>Arun</Authors>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <Description>http request library 
+by use this library small amount of code to request any rest api</Description>
+    <Copyright></Copyright>
+    <PackageReleaseNotes>http library support 
+GET
+PUT
+POST
+DELETE</PackageReleaseNotes>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
