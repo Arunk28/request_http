@@ -1,4 +1,6 @@
 # HttpLibrary
+[![NuGet package](https://buildstats.info/nuget/request_http)](https://www.nuget.org/packages/request_http)
+
 Http library used to make rest calls easily in  c# projects
 
 # How to use
